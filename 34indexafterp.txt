@@ -1,0 +1,16 @@
+                <p>
+                    L’option « Solutions d’infrastructure, systèmes et réseaux »
+                    est destinée aux étudiants qui s’orientent vers les métiers
+                    liés à la conception et la maintenance d’infrastructures réseaux.
+                </p>
+                <p>
+                    Assurer la sécurité, la maintenance et l’installation des réseaux
+                    et des équipements informatiques font partie des principales missions
+                    des futurs administrateurs, techniciens ou pilotes d’exploitation.
+                </p>
+                <p>
+                    Je possède également des compétences plus généralistes, me permettant d’être opérationnel dans d'autres domaines informatiques,
+                    comme la programmation (front-end : html,css,javascript,React ; back-end : C,C++,Python), l'administration système (LAMP, Nginx)
+                    ou encore la pose, l'installation,
+                    la maintenance et la réparation d'équipements informatiques (stations de travail, tablettes, caméra ip...).
+                </p>
